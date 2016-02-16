@@ -1,6 +1,6 @@
 # meteor-seneca
 
-Example of a meteor app combined with a seneca server, based on the presentation of [Presentation of Tobias Jaeckel](https://www.youtube.com/watch?v=9FDWv0BDKtI).
+Example of a meteor app combined with a seneca server, based on the presentation of [presentation of Tobias Jaeckel](https://www.youtube.com/watch?v=9FDWv0BDKtI).
 
 
 
